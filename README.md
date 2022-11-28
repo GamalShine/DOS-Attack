@@ -48,7 +48,7 @@ If you don't have `make`, then execute:
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/GamalShine/overload
 cd overload/
 
 # With a Virtual Enviroment
@@ -69,7 +69,7 @@ python3 overload.py
 ```
 pkg update
 pkg install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/GamalShine/overload
 cd overload/
 pip3 install -r requirements.txt
 python3 overload.py
@@ -92,7 +92,7 @@ HTTP GET Attack Example:
 │   ├───TIME: 600
 │   ├───THREADS: 800
 │   ├───USE PROXY: 0 (False)
-│   └───URL:https://github.com/7zx/overload
+│   └───URL:https://github.com/GamalShine/overload
 ```
 
 Slowloris Attack Example:  
@@ -103,7 +103,7 @@ Slowloris Attack Example:
 │   ├───TIME: 300
 │   ├───SOCKETS: 200
 │   ├───SLEEP TIME: 15
-│   └───URL:https://github.com/7zx/overload
+│   └───URL:https://github.com/GamalShine/overload
 ```
 
 If the case, the threads will initialize and connect to elite-anonymity public proxies, and if not, your IP will be used on the requests. We do not own the proxy servers and do not respond for anything that they may do (like leaking your actual IP); they are hosted by volunteers and their addresses are retrieved through the [Proxy Scrape API](https://docs.proxyscrape.com/).
