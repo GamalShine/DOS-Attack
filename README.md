@@ -11,7 +11,7 @@
   <h1>💻 Preview</h1>
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7zx/overload/main/img/preview.gif">
+  <img src="https://github.com/GamalShine/DOS-Attack/blob/main/img/dos.png">
 </p>
 
 <div align="center">
